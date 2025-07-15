@@ -9,6 +9,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
     "pdf-to-png-converter": "^3.7.0",
     "pdfjs-dist": "^5.3.93",
     "tesseract.js": "^6.0.1"
